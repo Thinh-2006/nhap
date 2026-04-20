@@ -25,6 +25,7 @@ public class QuadrantExercise {
         System.out.print("- Nhap so b: ");
         double b = s.nextDouble();
         System.out.println("Ket qua la: " + quadrant(a, b));
+        System.out.println("XONG!!!");
 
     }
 }
